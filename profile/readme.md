@@ -22,5 +22,6 @@ Video Product Overview: [Here](youtube.com/watch?v=6XKdIbguI00&embeds_referring_
 
 
 Custom instance of Brainflow Repo: [Here](https://github.com/shakimiansky/Shared_brainflow-cerelog) for collecting data with the device. 
-Can aquire data by running this python test script Shared_brainflow-cerelog/python_package/cerelog_tests/filtered_plot.py from above repo
+
+Can aquire data by running from above this this python test script Shared_brainflow-cerelog/python_package/cerelog_tests/filtered_plot.py 
 
