@@ -1,5 +1,10 @@
-High-precision 8-channel biosensing board designed for EEG, EMG, ECG, and Brain Computer Interface (BCI) research applications.
-Cerelog ESP-EEG is a place, where researchers can collaborate and improve device performance
+Cerelog ESP-EEG High-precision 8-channel biosensing board designed for EEG, EMG, ECG, and Brain Computer Interface (BCI) research applications.
+
+A place, where researchers can collaborate and improve device performance
+
+
+
+
 
 Contact: simon@cerelog.com
 
